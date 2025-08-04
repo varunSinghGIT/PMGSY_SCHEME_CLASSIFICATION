@@ -1,4 +1,4 @@
-# PMGSY_SCHEME_CLASSIFICATION
+# PMGSY_SCHEME_CLASSIFICATION(Project No. 35)
 This AI system uses IBM watsonx AutoAI to classify PMGSY rural projects with 92.4% accuracy, transforming manual categorization into automated process. The cloud solution provides real-time classification, reducing overhead and enhancing transparency in India's rural development.
 
 # PMGSY Rural Infrastructure Project Classification using IBM watsonx AutoAI
